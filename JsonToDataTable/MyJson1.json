@@ -1,0 +1,18 @@
+{
+  "value": [
+    {
+      "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users/$entity",
+      "businessPhones": [ "919871155789" ],
+      "displayName": "Manish Jain",
+      "givenName": "Manish",
+      "jobTitle": null,
+      "mail": "admin@etpinstitute1.onmicrosoft.com",
+      "mobilePhone": null,
+      "officeLocation": null,
+      "preferredLanguage": "en-US",
+      "surname": "Jain",
+      "userPrincipalName": "admin@etpinstitute1.onmicrosoft.com",
+      "id": "c781a048-1fcd-4478-adef-b010b55da50a"
+    }
+  ]
+}
